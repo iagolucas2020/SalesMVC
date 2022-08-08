@@ -39,3 +39,6 @@ D:\Projetos Geral\Curso C# .Net\Projeto AspNet\SalesMvcEntityFramework\SalesMvcE
 D:\Projetos Geral\Curso C# .Net\Projeto AspNet\SalesMvcEntityFramework\SalesMvcEntityFramework\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Details.cshtml.g.cs
 D:\Projetos Geral\Curso C# .Net\Projeto AspNet\SalesMvcEntityFramework\SalesMvcEntityFramework\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
 D:\Projetos Geral\Curso C# .Net\Projeto AspNet\SalesMvcEntityFramework\SalesMvcEntityFramework\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
+D:\Projetos Geral\Curso C# .Net\Projeto AspNet\SalesMvcEntityFramework\SalesMvcEntityFramework\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\index.cshtml.g.cs
+D:\Projetos Geral\Curso C# .Net\Projeto AspNet\SalesMvcEntityFramework\SalesMvcEntityFramework\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\Projetos Geral\Curso C# .Net\Projeto AspNet\SalesMvcEntityFramework\SalesMvcEntityFramework\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs

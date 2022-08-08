@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SalesMvcEntityFramework.Models;
 using SalesMvcEntityFramework.Data;
+using SalesMvcEntityFramework.Services;
 
 namespace SalesMvcEntityFramework
 {
@@ -42,6 +43,8 @@ namespace SalesMvcEntityFramework
                         builder.MigrationsAssembly("SalesMvcEntityFramework")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
+            services.AddScoped<DepartamentService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
